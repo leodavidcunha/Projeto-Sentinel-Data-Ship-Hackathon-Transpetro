@@ -35,11 +35,6 @@
 
 <p align="center">
   <i>Clique diretamente em "Entrar" ou "Acessar Versão Demo" para explorar o MVP.</i>
-
-<center>Link extra plataforma com dados mockados para apresentação mais completa do futuro da plataforma:</center>
-  <p align="center">
-  <a href="https://sentineldataship.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 Entrar%20na%20Plataforma-1E90FF?style=for-the-badge" alt="Entrar na Plataforma Prototipada com Dados Mockados"><br>
 </p>
 ---
 
