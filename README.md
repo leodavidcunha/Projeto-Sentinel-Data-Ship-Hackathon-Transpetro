@@ -27,13 +27,19 @@
 <br>
 
 <p align="center">
-  <a href="https://sentineldataship.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 Entrar%20na%20Plataforma-1E90FF?style=for-the-badge" alt="Entrar na Plataforma">
+  <a href="https://hackaton-test-njly.vercel.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Entrar%20na%20Plataforma-1E90FF?style=for-the-badge" alt="Entrar na Plataforma com Dados Reais"><br>
+    <i>Esta link é da plataforma desenvolvida com dados reais do DataSet da TransPetro e Dados Externos Meteorologicos
   </a>
 </p>
 
 <p align="center">
   <i>Clique diretamente em "Entrar" ou "Acessar Versão Demo" para explorar o MVP.</i>
+
+<center>Link extra plataforma com dados mockados para apresentação mais completa do futuro da plataforma:</center>
+  <p align="center">
+  <a href="https://sentineldataship.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Entrar%20na%20Plataforma-1E90FF?style=for-the-badge" alt="Entrar na Plataforma Prototipada com Dados Mockados"><br>
 </p>
 ---
 
