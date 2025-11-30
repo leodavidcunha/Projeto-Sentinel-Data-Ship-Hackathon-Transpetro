@@ -101,6 +101,63 @@ para manutenção, com aprovação final do gestor.
 
 ---
 
+## 🌦️ Integração com API Open-Meteo (Meteorologia e Oceanografia)
+
+O Sentinel Data Ship utiliza dados avançados da **Open-Meteo API**, uma plataforma gratuita e de alta confiabilidade que fornece informações meteorológicas, oceânicas e climáticas essenciais para diferenciar **bioincrustação real** de **perdas hidrodinâmicas causadas por condições ambientais**.
+
+### 🔗 APIs Integradas
+As seguintes APIs da Open-Meteo são utilizadas no projeto:
+
+- **API de Meteorologia Marinha**  
+  ➝ Altura de ondas, direção, período, correntes marítimas, swell, SWH (Significant Wave Height).
+
+- **API de Clima Histórico**  
+  ➝ Condições ambientais passadas alinhadas ao AIS e consumo histórico para modelagem.
+
+- **API de Previsão GFS / HRRR**  
+  ➝ Previsões de vento, ondas e correntes para estimar impacto futuro no consumo.
+
+- **API do ECMWF**  
+  ➝ Modelos meteorológicos globais de alta precisão, reforçando previsões de fouling.
+
+- **API de Ícones DWD**  
+  ➝ Informações de tempo superficial com previsões rápidas e de alta resolução.
+
+- **API de Mudanças Climáticas**  
+  ➝ Variáveis macroambientais que influenciam regimes sazonais de bioincrustação.
+
+---
+
+### 📡 Como os dados são utilizados no Sentinel Data Ship
+
+A cada registro de telemetria (AIS, consumo, velocidade, aproamento), a plataforma consulta as APIs para obter o contexto ambiental do mesmo timestamp:
+
+| Tipo de Dado | Fonte | Uso no Sistema |
+|--------------|--------|----------------|
+| **Vento (velocidade/direção)** | GFS / HRRR | Ajuste de resistência aerodinâmica e impacto em consumo |
+| **Altura de ondas (SWH)** | Marine API | Correção de consumo para mares agitados |
+| **Período e direção das ondas** | Marine API | Modelagem de impacto hidrodinâmico |
+| **Correntes marítimas (velocidade/direção)** | Marine API | Ajustes de desempenho baseado em corrente contrária |
+| **Condições meteorológicas gerais** | ECMWF, GFS | Exclusão de ruído ambiental no cálculo do IBI |
+| **Histórico climático** | Climate API | Linhas de base sazonais de fouling |
+
+---
+
+### 🧠 Por que isso é essencial?
+
+A bioincrustação **não pode ser estimada apenas** por consumo ou perda de velocidade.  
+O Sentinel Data Ship utiliza dados da API Meteo para:
+
+✔ Separar **impactos ambientais** de **impactos causados por fouling**  
+✔ Evitar falsos alertas (ventos fortes ≠ casco sujo)  
+✔ Aumentar a precisão do **Índice de Biofouling Estimado (IBE)**  
+✔ Aprimorar a previsão de manutenção  
+✔ Gerar economia real para a frota
+
+---
+
+
+
 ## 🧱 Arquitetura Resumida
 
 ```text
