@@ -1,0 +1,2692 @@
+{
+  "daniel-pereira": {
+    "navio": "DANIEL PEREIRA",
+    "navioId": "daniel-pereira",
+    "baseline": 0.1336,
+    "consumoAtual": 0.1497,
+    "excessoTotal": 0.0161,
+    "impactoConsumo": 12.1,
+    "separacaoFatores": {
+      "clima": 32.5,
+      "trim": 27.9,
+      "carregamento": 39.6,
+      "bioincrustacao": 0.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.0,
+      "clima": 0.32,
+      "outros": 0.68
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 5.0,
+      "beaufortMax": 11,
+      "beaufortMin": 0,
+      "beaufortDesc": "Fresh breeze",
+      "distribuicaoBeaufort": {
+        "4": 28.5,
+        "6": 17.9,
+        "5": 15.6,
+        "7": 11.1,
+        "3": 7.6,
+        "2": 6.4,
+        "8": 5.1,
+        "9": 3.6,
+        "1": 2.6,
+        "10": 1.3,
+        "0": 0.4,
+        "11": 0.2
+      },
+      "seaConditionMedio": 4.0,
+      "seaConditionMax": 8,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Moderate",
+      "distribuicaoSeaCondition": {
+        "3": 28.5,
+        "5": 17.9,
+        "6": 16.2,
+        "4": 15.6,
+        "2": 14.0,
+        "7": 3.6,
+        "1": 2.6,
+        "8": 1.4,
+        "0": 0.4
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-13",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.065,
+        "speed": 12.8
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.147,
+        "speed": 12.8
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.164,
+        "speed": 11.7
+      },
+      {
+        "data": "2025-11-15",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.156,
+        "speed": 12.6
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.124,
+        "speed": 17.4
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.089,
+        "speed": 4.1
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.056,
+        "speed": 4.5
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.046,
+        "speed": 3.2
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.909,
+        "speed": 8.9
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.4,
+        "speed": 4.8
+      }
+    ],
+    "totalViagens": 1254,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "romario-silva": {
+    "navio": "ROMARIO SILVA",
+    "navioId": "romario-silva",
+    "baseline": 0.0837,
+    "consumoAtual": 0.1182,
+    "excessoTotal": 0.0345,
+    "impactoConsumo": 41.3,
+    "separacaoFatores": {
+      "clima": 7.2,
+      "trim": 10.2,
+      "carregamento": 2.4,
+      "bioincrustacao": 80.2
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.8,
+      "clima": 0.07,
+      "outros": 0.13
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.4,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 39.2,
+        "5": 17.3,
+        "3": 9.8,
+        "6": 9.8,
+        "2": 8.5,
+        "7": 7.0,
+        "1": 3.9,
+        "8": 2.4,
+        "9": 1.0,
+        "10": 0.5,
+        "12": 0.3,
+        "0": 0.3
+      },
+      "seaConditionMedio": 3.5,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 39.2,
+        "2": 18.3,
+        "4": 17.3,
+        "5": 9.8,
+        "6": 9.4,
+        "1": 3.9,
+        "7": 1.0,
+        "8": 0.5,
+        "9": 0.3,
+        "0": 0.3
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-02",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.074,
+        "speed": 14.6
+      },
+      {
+        "data": "2025-11-03",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.079,
+        "speed": 13.4
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.05,
+        "speed": 6.5
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.06,
+        "speed": 5.5
+      },
+      {
+        "data": "2025-11-06",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.05,
+        "speed": 8.7
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.067,
+        "speed": 8.0
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.028,
+        "speed": 9.5
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.075,
+        "speed": 12.8
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.071,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.1,
+        "speed": 10.1
+      }
+    ],
+    "totalViagens": 1272,
+    "recomendacao": "Alto indicativo de bioincrustacao (80%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "lucas-mendonça": {
+    "navio": "LUCAS MENDONÇA",
+    "navioId": "lucas-mendonça",
+    "baseline": 0.0909,
+    "consumoAtual": 0.1268,
+    "excessoTotal": 0.0359,
+    "impactoConsumo": 39.5,
+    "separacaoFatores": {
+      "clima": 7.6,
+      "trim": 12.0,
+      "carregamento": 2.4,
+      "bioincrustacao": 78.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.78,
+      "clima": 0.08,
+      "outros": 0.14
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.4,
+      "beaufortMax": 12,
+      "beaufortMin": 1,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 43.0,
+        "5": 20.6,
+        "6": 13.4,
+        "3": 9.9,
+        "2": 5.7,
+        "7": 3.5,
+        "1": 1.9,
+        "8": 1.1,
+        "9": 0.6,
+        "12": 0.2,
+        "10": 0.1
+      },
+      "seaConditionMedio": 3.5,
+      "seaConditionMax": 9,
+      "seaConditionMin": 1,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 43.0,
+        "4": 20.6,
+        "2": 15.6,
+        "5": 13.4,
+        "6": 4.6,
+        "1": 1.9,
+        "7": 0.6,
+        "9": 0.2,
+        "8": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-17",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.1,
+        "speed": 7.2
+      },
+      {
+        "data": "2025-10-18",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.2,
+        "speed": 3.2
+      },
+      {
+        "data": "2025-10-24",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.084,
+        "speed": 10.1
+      },
+      {
+        "data": "2025-10-25",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.061,
+        "speed": 13.6
+      },
+      {
+        "data": "2025-11-06",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.233,
+        "speed": 4.1
+      },
+      {
+        "data": "2025-11-06",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.129,
+        "speed": 8.3
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.071,
+        "speed": 13.2
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.089,
+        "speed": 12.3
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.105,
+        "speed": 8.3
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.103,
+        "speed": 9.1
+      }
+    ],
+    "totalViagens": 1294,
+    "recomendacao": "Alto indicativo de bioincrustacao (78%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "marcos-cavalcanti": {
+    "navio": "MARCOS CAVALCANTI",
+    "navioId": "marcos-cavalcanti",
+    "baseline": 0.1494,
+    "consumoAtual": 0.1749,
+    "excessoTotal": 0.0255,
+    "impactoConsumo": 17.1,
+    "separacaoFatores": {
+      "clima": 21.5,
+      "trim": 33.5,
+      "carregamento": 11.5,
+      "bioincrustacao": 33.5
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.34,
+      "clima": 0.22,
+      "outros": 0.45
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.6,
+      "beaufortMax": 11,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 37.8,
+        "6": 17.2,
+        "5": 14.0,
+        "3": 11.0,
+        "7": 9.7,
+        "2": 4.6,
+        "1": 2.9,
+        "8": 2.0,
+        "10": 0.4,
+        "9": 0.1,
+        "0": 0.1,
+        "11": 0.1
+      },
+      "seaConditionMedio": 3.6,
+      "seaConditionMax": 8,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 37.8,
+        "5": 17.2,
+        "2": 15.6,
+        "4": 14.0,
+        "6": 11.7,
+        "1": 2.9,
+        "8": 0.5,
+        "7": 0.1,
+        "0": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-10",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.186,
+        "speed": 11.6
+      },
+      {
+        "data": "2025-11-11",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.189,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.168,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.149,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.152,
+        "speed": 12.1
+      },
+      {
+        "data": "2025-11-15",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.151,
+        "speed": 12.3
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.219,
+        "speed": 10.5
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.7,
+        "speed": 3.3
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.5,
+        "speed": 4.6
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.446,
+        "speed": 4.8
+      }
+    ],
+    "totalViagens": 1376,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "thiago-fernandes": {
+    "navio": "THIAGO FERNANDES",
+    "navioId": "thiago-fernandes",
+    "baseline": 0.0904,
+    "consumoAtual": 0.1286,
+    "excessoTotal": 0.0382,
+    "impactoConsumo": 42.3,
+    "separacaoFatores": {
+      "clima": 5.4,
+      "trim": 13.4,
+      "carregamento": 3.3,
+      "bioincrustacao": 77.9
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.78,
+      "clima": 0.05,
+      "outros": 0.17
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.2,
+      "beaufortMax": 9,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 35.1,
+        "5": 15.1,
+        "6": 14.3,
+        "3": 14.2,
+        "2": 10.7,
+        "7": 5.3,
+        "1": 3.9,
+        "8": 1.2,
+        "0": 0.1,
+        "9": 0.1
+      },
+      "seaConditionMedio": 3.3,
+      "seaConditionMax": 7,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 35.1,
+        "2": 24.9,
+        "4": 15.1,
+        "5": 14.3,
+        "6": 6.5,
+        "1": 3.9,
+        "0": 0.1,
+        "7": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-04",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.078,
+        "speed": 11.7
+      },
+      {
+        "data": "2025-11-05",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.06,
+        "speed": 15.3
+      },
+      {
+        "data": "2025-11-06",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.8,
+        "speed": 1.2
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.15,
+        "speed": 6.0
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.07,
+        "speed": 13.0
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.129,
+        "speed": 7.2
+      },
+      {
+        "data": "2025-11-09",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.15,
+        "speed": 5.1
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.15,
+        "speed": 6.0
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.067,
+        "speed": 13.6
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.156,
+        "speed": 6.0
+      }
+    ],
+    "totalViagens": 1140,
+    "recomendacao": "Alto indicativo de bioincrustacao (78%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "fábio-santos": {
+    "navio": "FÁBIO SANTOS",
+    "navioId": "fábio-santos",
+    "baseline": 0.0379,
+    "consumoAtual": 0.0471,
+    "excessoTotal": 0.0092,
+    "impactoConsumo": 24.2,
+    "separacaoFatores": {
+      "clima": 14.2,
+      "trim": 23.2,
+      "carregamento": 4.7,
+      "bioincrustacao": 57.9
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.58,
+      "clima": 0.14,
+      "outros": 0.28
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.5,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 40.1,
+        "5": 16.6,
+        "6": 16.6,
+        "3": 9.5,
+        "2": 5.5,
+        "7": 5.2,
+        "8": 2.9,
+        "1": 2.5,
+        "9": 0.7,
+        "10": 0.2,
+        "0": 0.1,
+        "12": 0.1
+      },
+      "seaConditionMedio": 3.6,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 40.1,
+        "4": 16.6,
+        "5": 16.6,
+        "2": 15.0,
+        "6": 8.0,
+        "1": 2.5,
+        "7": 0.7,
+        "8": 0.2,
+        "0": 0.1,
+        "9": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-11",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.029,
+        "speed": 9.7
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.028,
+        "speed": 10.8
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.053,
+        "speed": 9.5
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.041,
+        "speed": 10.4
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.042,
+        "speed": 10.2
+      },
+      {
+        "data": "2025-11-15",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.038,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.025,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.015,
+        "speed": 9.0
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.008,
+        "speed": 9.4
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.05,
+        "speed": 8.0
+      }
+    ],
+    "totalViagens": 1467,
+    "recomendacao": "Indicios moderados de bioincrustacao (57%). Monitorar evolucao nas proximas semanas."
+  },
+  "bruno-lima": {
+    "navio": "BRUNO LIMA",
+    "navioId": "bruno-lima",
+    "baseline": 0.04,
+    "consumoAtual": 0.0586,
+    "excessoTotal": 0.0186,
+    "impactoConsumo": 46.5,
+    "separacaoFatores": {
+      "clima": 5.0,
+      "trim": 10.1,
+      "carregamento": 2.1,
+      "bioincrustacao": 82.8
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.83,
+      "clima": 0.05,
+      "outros": 0.12
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.2,
+      "beaufortMax": 10,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 36.3,
+        "5": 18.4,
+        "6": 14.7,
+        "3": 12.4,
+        "2": 9.8,
+        "7": 3.9,
+        "1": 3.9,
+        "8": 0.4,
+        "9": 0.1,
+        "0": 0.1,
+        "10": 0.1
+      },
+      "seaConditionMedio": 3.3,
+      "seaConditionMax": 8,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 36.3,
+        "2": 22.2,
+        "4": 18.4,
+        "5": 14.7,
+        "6": 4.2,
+        "1": 3.9,
+        "7": 0.1,
+        "0": 0.1,
+        "8": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-15",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.031,
+        "speed": 9.1
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.029,
+        "speed": 7.6
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.272,
+        "speed": 5.8
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.041,
+        "speed": 10.5
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.036,
+        "speed": 10.5
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.035,
+        "speed": 10.7
+      },
+      {
+        "data": "2025-11-23",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.05,
+        "speed": 12.1
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.1,
+        "speed": 3.0
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.113,
+        "speed": 4.4
+      },
+      {
+        "data": "2025-11-25",
+        "beaufort": 1,
+        "seaCondition": 1,
+        "fuelPerNm": 0.05,
+        "speed": 7.2
+      }
+    ],
+    "totalViagens": 1417,
+    "recomendacao": "Alto indicativo de bioincrustacao (83%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "giselle-carvalho": {
+    "navio": "GISELLE CARVALHO",
+    "navioId": "giselle-carvalho",
+    "baseline": 0.1577,
+    "consumoAtual": 0.1809,
+    "excessoTotal": 0.0232,
+    "impactoConsumo": 14.7,
+    "separacaoFatores": {
+      "clima": 18.2,
+      "trim": 39.5,
+      "carregamento": 26.9,
+      "bioincrustacao": 15.4
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.15,
+      "clima": 0.18,
+      "outros": 0.66
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.3,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 36.6,
+        "5": 18.1,
+        "3": 13.8,
+        "6": 12.7,
+        "2": 7.4,
+        "7": 4.5,
+        "1": 3.7,
+        "8": 2.2,
+        "12": 0.2,
+        "10": 0.2,
+        "9": 0.2,
+        "0": 0.2,
+        "11": 0.1
+      },
+      "seaConditionMedio": 3.4,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 36.6,
+        "2": 21.2,
+        "4": 18.1,
+        "5": 12.7,
+        "6": 6.6,
+        "1": 3.7,
+        "8": 0.4,
+        "9": 0.2,
+        "7": 0.2,
+        "0": 0.2
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-12",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.108,
+        "speed": 14.8
+      },
+      {
+        "data": "2025-10-13",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.109,
+        "speed": 14.2
+      },
+      {
+        "data": "2025-10-14",
+        "beaufort": 1,
+        "seaCondition": 1,
+        "fuelPerNm": 0.112,
+        "speed": 14.1
+      },
+      {
+        "data": "2025-10-15",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.119,
+        "speed": 13.0
+      },
+      {
+        "data": "2025-10-16",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.118,
+        "speed": 13.4
+      },
+      {
+        "data": "2025-10-17",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.12,
+        "speed": 13.2
+      },
+      {
+        "data": "2025-10-18",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.109,
+        "speed": 14.1
+      },
+      {
+        "data": "2025-10-19",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.104,
+        "speed": 14.1
+      },
+      {
+        "data": "2025-10-20",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.106,
+        "speed": 13.7
+      },
+      {
+        "data": "2025-10-21",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.146,
+        "speed": 11.5
+      }
+    ],
+    "totalViagens": 1342,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "victor-oliveira": {
+    "navio": "VICTOR OLIVEIRA",
+    "navioId": "victor-oliveira",
+    "baseline": 0.142,
+    "consumoAtual": 0.1477,
+    "excessoTotal": 0.0057,
+    "impactoConsumo": 4.0,
+    "separacaoFatores": {
+      "clima": 30.0,
+      "trim": 50.2,
+      "carregamento": 19.8,
+      "bioincrustacao": 0.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.0,
+      "clima": 0.3,
+      "outros": 0.7
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.4,
+      "beaufortMax": 9,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 38.0,
+        "5": 21.5,
+        "6": 19.4,
+        "3": 11.3,
+        "2": 6.7,
+        "7": 1.6,
+        "1": 1.2,
+        "8": 0.2,
+        "9": 0.1,
+        "0": 0.1
+      },
+      "seaConditionMedio": 3.5,
+      "seaConditionMax": 7,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 38.0,
+        "4": 21.5,
+        "5": 19.4,
+        "2": 18.0,
+        "6": 1.8,
+        "1": 1.2,
+        "7": 0.1,
+        "0": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-07",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.083,
+        "speed": 4.0
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.135,
+        "speed": 13.1
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.067,
+        "speed": 3.8
+      },
+      {
+        "data": "2025-11-10",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.12,
+        "speed": 4.6
+      },
+      {
+        "data": "2025-11-10",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.1,
+        "speed": 10.5
+      },
+      {
+        "data": "2025-11-11",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.147,
+        "speed": 12.6
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.4,
+        "speed": 5.0
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.222,
+        "speed": 6.0
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.186,
+        "speed": 11.7
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.126,
+        "speed": 12.7
+      }
+    ],
+    "totalViagens": 1208,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "carla-silva": {
+    "navio": "CARLA SILVA",
+    "navioId": "carla-silva",
+    "baseline": 0.1333,
+    "consumoAtual": 0.1566,
+    "excessoTotal": 0.0233,
+    "impactoConsumo": 17.5,
+    "separacaoFatores": {
+      "clima": 22.9,
+      "trim": 27.3,
+      "carregamento": 9.4,
+      "bioincrustacao": 40.4
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.4,
+      "clima": 0.23,
+      "outros": 0.37
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.7,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 31.5,
+        "6": 18.8,
+        "5": 15.4,
+        "7": 10.1,
+        "3": 9.8,
+        "2": 8.0,
+        "8": 2.4,
+        "1": 2.3,
+        "9": 1.0,
+        "10": 0.5,
+        "12": 0.1,
+        "0": 0.1
+      },
+      "seaConditionMedio": 3.8,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 31.5,
+        "5": 18.8,
+        "2": 17.8,
+        "4": 15.4,
+        "6": 12.5,
+        "1": 2.3,
+        "7": 1.0,
+        "8": 0.5,
+        "9": 0.1,
+        "0": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-18",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.083,
+        "speed": 2.0
+      },
+      {
+        "data": "2025-10-24",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.163,
+        "speed": 7.1
+      },
+      {
+        "data": "2025-11-05",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.015,
+        "speed": 9.1
+      },
+      {
+        "data": "2025-11-05",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.12,
+        "speed": 12.4
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.05,
+        "speed": 6.5
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.227,
+        "speed": 6.0
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.333,
+        "speed": 2.7
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.116,
+        "speed": 6.1
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.119,
+        "speed": 12.6
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.13,
+        "speed": 6.3
+      }
+    ],
+    "totalViagens": 927,
+    "recomendacao": "Indicios moderados de bioincrustacao (40%). Monitorar evolucao nas proximas semanas."
+  },
+  "maria-valentina": {
+    "navio": "MARIA VALENTINA",
+    "navioId": "maria-valentina",
+    "baseline": 0.0422,
+    "consumoAtual": 0.0578,
+    "excessoTotal": 0.0156,
+    "impactoConsumo": 37.0,
+    "separacaoFatores": {
+      "clima": 5.9,
+      "trim": 14.6,
+      "carregamento": 2.9,
+      "bioincrustacao": 76.6
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.77,
+      "clima": 0.06,
+      "outros": 0.18
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.1,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 39.6,
+        "5": 19.9,
+        "3": 12.0,
+        "6": 11.5,
+        "2": 9.4,
+        "1": 3.4,
+        "7": 3.3,
+        "8": 0.5,
+        "0": 0.2,
+        "12": 0.1,
+        "11": 0.1,
+        "9": 0.1
+      },
+      "seaConditionMedio": 3.3,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 39.6,
+        "2": 21.4,
+        "4": 19.9,
+        "5": 11.5,
+        "6": 3.8,
+        "1": 3.4,
+        "0": 0.2,
+        "9": 0.1,
+        "8": 0.1,
+        "7": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-28",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.042,
+        "speed": 10.8
+      },
+      {
+        "data": "2025-10-29",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.038,
+        "speed": 12.1
+      },
+      {
+        "data": "2025-10-30",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.039,
+        "speed": 11.5
+      },
+      {
+        "data": "2025-10-30",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.06,
+        "speed": 7.1
+      },
+      {
+        "data": "2025-11-01",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.048,
+        "speed": 9.6
+      },
+      {
+        "data": "2025-11-01",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.031,
+        "speed": 13.5
+      },
+      {
+        "data": "2025-11-02",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.031,
+        "speed": 13.5
+      },
+      {
+        "data": "2025-11-03",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.034,
+        "speed": 13.7
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.033,
+        "speed": 14.0
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.075,
+        "speed": 6.0
+      }
+    ],
+    "totalViagens": 1378,
+    "recomendacao": "Alto indicativo de bioincrustacao (77%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "henrique-alves": {
+    "navio": "HENRIQUE ALVES",
+    "navioId": "henrique-alves",
+    "baseline": 0.1564,
+    "consumoAtual": 0.1863,
+    "excessoTotal": 0.0299,
+    "impactoConsumo": 19.1,
+    "separacaoFatores": {
+      "clima": 21.5,
+      "trim": 25.8,
+      "carregamento": 14.1,
+      "bioincrustacao": 38.6
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.39,
+      "clima": 0.22,
+      "outros": 0.4
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.7,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 29.4,
+        "6": 23.2,
+        "5": 16.4,
+        "3": 9.7,
+        "7": 8.5,
+        "2": 8.2,
+        "8": 1.9,
+        "1": 1.4,
+        "9": 0.7,
+        "10": 0.4,
+        "0": 0.2,
+        "12": 0.1
+      },
+      "seaConditionMedio": 3.8,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 29.4,
+        "5": 23.2,
+        "2": 17.9,
+        "4": 16.4,
+        "6": 10.4,
+        "1": 1.4,
+        "7": 0.7,
+        "8": 0.4,
+        "0": 0.2,
+        "9": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-09",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.158,
+        "speed": 11.6
+      },
+      {
+        "data": "2025-11-10",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.165,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-11",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.142,
+        "speed": 11.2
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.145,
+        "speed": 11.5
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.145,
+        "speed": 11.3
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.161,
+        "speed": 11.9
+      },
+      {
+        "data": "2025-11-15",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.15,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.165,
+        "speed": 11.6
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.163,
+        "speed": 11.8
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.192,
+        "speed": 11.1
+      }
+    ],
+    "totalViagens": 1257,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "raul-martins": {
+    "navio": "RAUL MARTINS",
+    "navioId": "raul-martins",
+    "baseline": 0.1592,
+    "consumoAtual": 0.1793,
+    "excessoTotal": 0.0201,
+    "impactoConsumo": 12.6,
+    "separacaoFatores": {
+      "clima": 22.3,
+      "trim": 43.1,
+      "carregamento": 17.7,
+      "bioincrustacao": 17.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.17,
+      "clima": 0.22,
+      "outros": 0.61
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.3,
+      "beaufortMax": 9,
+      "beaufortMin": 1,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 38.0,
+        "6": 16.9,
+        "5": 15.8,
+        "3": 11.8,
+        "2": 8.8,
+        "7": 3.7,
+        "1": 2.6,
+        "8": 2.0,
+        "9": 0.4
+      },
+      "seaConditionMedio": 3.4,
+      "seaConditionMax": 7,
+      "seaConditionMin": 1,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 38.0,
+        "2": 20.6,
+        "5": 16.9,
+        "4": 15.8,
+        "6": 5.7,
+        "1": 2.6,
+        "7": 0.4
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-17",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.098,
+        "speed": 14.7
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.144,
+        "speed": 13.3
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.137,
+        "speed": 14.0
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.135,
+        "speed": 13.6
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.138,
+        "speed": 13.9
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.122,
+        "speed": 13.6
+      },
+      {
+        "data": "2025-11-23",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.002,
+        "speed": 13.1
+      },
+      {
+        "data": "2025-11-23",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.108,
+        "speed": 13.1
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.114,
+        "speed": 12.7
+      },
+      {
+        "data": "2025-11-25",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.109,
+        "speed": 14.5
+      }
+    ],
+    "totalViagens": 1357,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "rafael-santos": {
+    "navio": "RAFAEL SANTOS",
+    "navioId": "rafael-santos",
+    "baseline": 0.1474,
+    "consumoAtual": 0.1677,
+    "excessoTotal": 0.0203,
+    "impactoConsumo": 13.8,
+    "separacaoFatores": {
+      "clima": 17.2,
+      "trim": 21.9,
+      "carregamento": 60.9,
+      "bioincrustacao": 0.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.0,
+      "clima": 0.17,
+      "outros": 0.83
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.6,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 29.8,
+        "6": 19.7,
+        "5": 17.5,
+        "3": 13.0,
+        "7": 7.1,
+        "2": 6.7,
+        "8": 3.0,
+        "1": 2.0,
+        "9": 0.9,
+        "0": 0.2,
+        "12": 0.1
+      },
+      "seaConditionMedio": 3.7,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 29.8,
+        "5": 19.7,
+        "2": 19.6,
+        "4": 17.5,
+        "6": 10.1,
+        "1": 2.0,
+        "7": 0.9,
+        "0": 0.2,
+        "9": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-15",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.182,
+        "speed": 11.9
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.184,
+        "speed": 12.9
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.141,
+        "speed": 14.2
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.144,
+        "speed": 14.0
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.143,
+        "speed": 14.9
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.132,
+        "speed": 13.3
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.139,
+        "speed": 12.6
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.14,
+        "speed": 13.1
+      },
+      {
+        "data": "2025-11-23",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.138,
+        "speed": 13.0
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.155,
+        "speed": 14.3
+      }
+    ],
+    "totalViagens": 1166,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "renato-gomes": {
+    "navio": "RENATO GOMES",
+    "navioId": "renato-gomes",
+    "baseline": 0.125,
+    "consumoAtual": 0.1395,
+    "excessoTotal": 0.0145,
+    "impactoConsumo": 11.6,
+    "separacaoFatores": {
+      "clima": 35.7,
+      "trim": 32.4,
+      "carregamento": 24.6,
+      "bioincrustacao": 7.3
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.07,
+      "clima": 0.36,
+      "outros": 0.57
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.7,
+      "beaufortMax": 11,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 36.8,
+        "6": 19.4,
+        "5": 14.5,
+        "7": 9.4,
+        "3": 9.0,
+        "2": 4.6,
+        "8": 3.4,
+        "1": 1.6,
+        "9": 0.6,
+        "0": 0.5,
+        "10": 0.2,
+        "11": 0.1
+      },
+      "seaConditionMedio": 3.8,
+      "seaConditionMax": 8,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 36.8,
+        "5": 19.4,
+        "4": 14.5,
+        "2": 13.7,
+        "6": 12.8,
+        "1": 1.6,
+        "7": 0.6,
+        "0": 0.5,
+        "8": 0.2
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-15",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.137,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.138,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-11-17",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.135,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-11-18",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.155,
+        "speed": 10.8
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.143,
+        "speed": 11.8
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.131,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.125,
+        "speed": 13.0
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.121,
+        "speed": 13.3
+      },
+      {
+        "data": "2025-11-23",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.134,
+        "speed": 12.9
+      },
+      {
+        "data": "2025-11-24",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.125,
+        "speed": 13.5
+      }
+    ],
+    "totalViagens": 1238,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "paulo-moura": {
+    "navio": "PAULO MOURA",
+    "navioId": "paulo-moura",
+    "baseline": 0.1522,
+    "consumoAtual": 0.1678,
+    "excessoTotal": 0.0156,
+    "impactoConsumo": 10.2,
+    "separacaoFatores": {
+      "clima": 25.7,
+      "trim": 43.9,
+      "carregamento": 30.4,
+      "bioincrustacao": 0.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.0,
+      "clima": 0.26,
+      "outros": 0.74
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.3,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 29.9,
+        "5": 21.6,
+        "6": 13.7,
+        "3": 12.0,
+        "2": 9.0,
+        "1": 5.7,
+        "7": 5.0,
+        "8": 2.4,
+        "9": 0.4,
+        "0": 0.2,
+        "12": 0.2
+      },
+      "seaConditionMedio": 3.4,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 29.9,
+        "4": 21.6,
+        "2": 21.0,
+        "5": 13.7,
+        "6": 7.4,
+        "1": 5.7,
+        "7": 0.4,
+        "0": 0.2,
+        "9": 0.2
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-23",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.2,
+        "speed": 9.1
+      },
+      {
+        "data": "2025-10-24",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.175,
+        "speed": 10.5
+      },
+      {
+        "data": "2025-10-25",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.147,
+        "speed": 12.2
+      },
+      {
+        "data": "2025-10-26",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.142,
+        "speed": 12.2
+      },
+      {
+        "data": "2025-10-27",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.16,
+        "speed": 12.3
+      },
+      {
+        "data": "2025-10-28",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.179,
+        "speed": 12.1
+      },
+      {
+        "data": "2025-10-29",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.174,
+        "speed": 12.4
+      },
+      {
+        "data": "2025-10-30",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.1,
+        "speed": 12.8
+      },
+      {
+        "data": "2025-10-30",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.32,
+        "speed": 10.0
+      },
+      {
+        "data": "2025-11-02",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.153,
+        "speed": 9.1
+      }
+    ],
+    "totalViagens": 1256,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "ricardo-barbosa": {
+    "navio": "RICARDO BARBOSA",
+    "navioId": "ricardo-barbosa",
+    "baseline": 0.0389,
+    "consumoAtual": 0.0479,
+    "excessoTotal": 0.009,
+    "impactoConsumo": 23.3,
+    "separacaoFatores": {
+      "clima": 12.1,
+      "trim": 23.7,
+      "carregamento": 3.0,
+      "bioincrustacao": 61.2
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.61,
+      "clima": 0.12,
+      "outros": 0.27
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.3,
+      "beaufortMax": 10,
+      "beaufortMin": 1,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 43.9,
+        "5": 20.3,
+        "6": 15.0,
+        "3": 10.5,
+        "2": 6.0,
+        "7": 2.7,
+        "1": 1.1,
+        "8": 0.4,
+        "10": 0.1
+      },
+      "seaConditionMedio": 3.4,
+      "seaConditionMax": 8,
+      "seaConditionMin": 1,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 43.9,
+        "4": 20.3,
+        "2": 16.5,
+        "5": 15.0,
+        "6": 3.1,
+        "1": 1.1,
+        "8": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-01",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.033,
+        "speed": 8.6
+      },
+      {
+        "data": "2025-10-01",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.044,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-10-01",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.049,
+        "speed": 10.3
+      },
+      {
+        "data": "2025-10-02",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.039,
+        "speed": 10.6
+      },
+      {
+        "data": "2025-10-03",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.042,
+        "speed": 10.0
+      },
+      {
+        "data": "2025-10-04",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.039,
+        "speed": 10.6
+      },
+      {
+        "data": "2025-10-05",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.03,
+        "speed": 12.5
+      },
+      {
+        "data": "2025-10-05",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.013,
+        "speed": 8.0
+      },
+      {
+        "data": "2025-10-06",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.029,
+        "speed": 4.4
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.08,
+        "speed": 5.1
+      }
+    ],
+    "totalViagens": 1391,
+    "recomendacao": "Alto indicativo de bioincrustacao (61%). Recomenda-se agendar inspecao subaquatica ou limpeza de casco."
+  },
+  "felipe-ribeiro": {
+    "navio": "FELIPE RIBEIRO",
+    "navioId": "felipe-ribeiro",
+    "baseline": 0.1786,
+    "consumoAtual": 0.2112,
+    "excessoTotal": 0.0326,
+    "impactoConsumo": 18.3,
+    "separacaoFatores": {
+      "clima": 19.3,
+      "trim": 27.8,
+      "carregamento": 9.9,
+      "bioincrustacao": 43.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.43,
+      "clima": 0.19,
+      "outros": 0.38
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.5,
+      "beaufortMax": 11,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 30.1,
+        "6": 16.8,
+        "5": 16.4,
+        "3": 10.6,
+        "2": 8.9,
+        "7": 8.9,
+        "1": 3.7,
+        "8": 3.1,
+        "10": 0.5,
+        "0": 0.5,
+        "9": 0.5,
+        "11": 0.1
+      },
+      "seaConditionMedio": 3.6,
+      "seaConditionMax": 8,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 30.1,
+        "2": 19.5,
+        "5": 16.8,
+        "4": 16.4,
+        "6": 12.0,
+        "1": 3.7,
+        "8": 0.6,
+        "0": 0.5,
+        "7": 0.5
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-09",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.137,
+        "speed": 12.7
+      },
+      {
+        "data": "2025-11-10",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.159,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-11-11",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.214,
+        "speed": 5.4
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.15,
+        "speed": 4.4
+      },
+      {
+        "data": "2025-11-14",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.571,
+        "speed": 5.5
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 2,
+        "seaCondition": 2,
+        "fuelPerNm": 0.214,
+        "speed": 6.6
+      },
+      {
+        "data": "2025-11-19",
+        "beaufort": 3,
+        "seaCondition": 2,
+        "fuelPerNm": 0.571,
+        "speed": 2.9
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.222,
+        "speed": 9.6
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.141,
+        "speed": 13.7
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.145,
+        "speed": 13.8
+      }
+    ],
+    "totalViagens": 1277,
+    "recomendacao": "Indicios moderados de bioincrustacao (43%). Monitorar evolucao nas proximas semanas."
+  },
+  "gabriela-martins": {
+    "navio": "GABRIELA MARTINS",
+    "navioId": "gabriela-martins",
+    "baseline": 0.1241,
+    "consumoAtual": 0.1355,
+    "excessoTotal": 0.0114,
+    "impactoConsumo": 9.2,
+    "separacaoFatores": {
+      "clima": 31.1,
+      "trim": 42.8,
+      "carregamento": 26.1,
+      "bioincrustacao": 0.0
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.0,
+      "clima": 0.31,
+      "outros": 0.69
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.6,
+      "beaufortMax": 9,
+      "beaufortMin": 1,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 50.0,
+        "5": 15.4,
+        "6": 14.1,
+        "3": 6.9,
+        "7": 6.7,
+        "2": 3.6,
+        "8": 2.1,
+        "1": 0.9,
+        "9": 0.3
+      },
+      "seaConditionMedio": 3.6,
+      "seaConditionMax": 7,
+      "seaConditionMin": 1,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 50.0,
+        "4": 15.4,
+        "5": 14.1,
+        "2": 10.5,
+        "6": 8.8,
+        "1": 0.9,
+        "7": 0.3
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-31",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.086,
+        "speed": 14.0
+      },
+      {
+        "data": "2025-11-01",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.085,
+        "speed": 14.2
+      },
+      {
+        "data": "2025-11-02",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.084,
+        "speed": 14.2
+      },
+      {
+        "data": "2025-11-03",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.084,
+        "speed": 14.2
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.072,
+        "speed": 13.0
+      },
+      {
+        "data": "2025-11-04",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.24,
+        "speed": 3.9
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.252,
+        "speed": 5.3
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.5,
+        "speed": 2.0
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.6,
+        "speed": 2.3
+      },
+      {
+        "data": "2025-11-20",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.7,
+        "speed": 1.2
+      }
+    ],
+    "totalViagens": 1385,
+    "recomendacao": "Consumo dentro dos parametros esperados. Manter monitoramento regular."
+  },
+  "rodrigo-pinheiro": {
+    "navio": "RODRIGO PINHEIRO",
+    "navioId": "rodrigo-pinheiro",
+    "baseline": 0.1178,
+    "consumoAtual": 0.1429,
+    "excessoTotal": 0.0251,
+    "impactoConsumo": 21.3,
+    "separacaoFatores": {
+      "clima": 21.8,
+      "trim": 20.4,
+      "carregamento": 14.2,
+      "bioincrustacao": 43.6
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.44,
+      "clima": 0.22,
+      "outros": 0.35
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.9,
+      "beaufortMax": 10,
+      "beaufortMin": 1,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 39.1,
+        "6": 21.5,
+        "5": 13.6,
+        "7": 9.4,
+        "3": 5.9,
+        "2": 4.1,
+        "8": 3.4,
+        "9": 1.7,
+        "1": 1.2,
+        "10": 0.1
+      },
+      "seaConditionMedio": 3.9,
+      "seaConditionMax": 8,
+      "seaConditionMin": 1,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 39.1,
+        "5": 21.5,
+        "4": 13.6,
+        "6": 12.8,
+        "2": 10.0,
+        "7": 1.7,
+        "1": 1.2,
+        "8": 0.1
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-11-06",
+        "beaufort": 8,
+        "seaCondition": 6,
+        "fuelPerNm": 0.088,
+        "speed": 11.4
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.094,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.097,
+        "speed": 11.2
+      },
+      {
+        "data": "2025-11-09",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.1,
+        "speed": 12.0
+      },
+      {
+        "data": "2025-11-10",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.099,
+        "speed": 12.6
+      },
+      {
+        "data": "2025-11-11",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.116,
+        "speed": 11.7
+      },
+      {
+        "data": "2025-11-12",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.2,
+        "speed": 7.1
+      },
+      {
+        "data": "2025-11-13",
+        "beaufort": 4,
+        "seaCondition": 3,
+        "fuelPerNm": 0.033,
+        "speed": 9.1
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 5,
+        "seaCondition": 4,
+        "fuelPerNm": 0.05,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-11-16",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.044,
+        "speed": 12.9
+      }
+    ],
+    "totalViagens": 1449,
+    "recomendacao": "Indicios moderados de bioincrustacao (44%). Monitorar evolucao nas proximas semanas."
+  },
+  "eduardo-costa": {
+    "navio": "EDUARDO COSTA",
+    "navioId": "eduardo-costa",
+    "baseline": 0.139,
+    "consumoAtual": 0.1661,
+    "excessoTotal": 0.0271,
+    "impactoConsumo": 19.5,
+    "separacaoFatores": {
+      "clima": 20.5,
+      "trim": 21.9,
+      "carregamento": 5.9,
+      "bioincrustacao": 51.7
+    },
+    "probabilidadeCausa": {
+      "bioincrustacao": 0.52,
+      "clima": 0.2,
+      "outros": 0.28
+    },
+    "estatisticasClima": {
+      "beaufortMedio": 4.7,
+      "beaufortMax": 12,
+      "beaufortMin": 0,
+      "beaufortDesc": "Moderate breeze",
+      "distribuicaoBeaufort": {
+        "4": 25.6,
+        "6": 17.7,
+        "5": 16.6,
+        "3": 10.1,
+        "2": 8.2,
+        "7": 8.1,
+        "8": 5.8,
+        "1": 4.6,
+        "9": 1.5,
+        "0": 0.9,
+        "10": 0.5,
+        "12": 0.3,
+        "11": 0.1
+      },
+      "seaConditionMedio": 3.7,
+      "seaConditionMax": 9,
+      "seaConditionMin": 0,
+      "seaConditionDesc": "Slight",
+      "distribuicaoSeaCondition": {
+        "3": 25.6,
+        "2": 18.3,
+        "5": 17.7,
+        "4": 16.6,
+        "6": 13.9,
+        "1": 4.6,
+        "7": 1.5,
+        "0": 0.9,
+        "8": 0.6,
+        "9": 0.3
+      },
+      "seaConditionEstimado": true
+    },
+    "ultimasViagens": [
+      {
+        "data": "2025-10-28",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.108,
+        "speed": 11.1
+      },
+      {
+        "data": "2025-10-28",
+        "beaufort": 9,
+        "seaCondition": 7,
+        "fuelPerNm": 0.111,
+        "speed": 10.1
+      },
+      {
+        "data": "2025-10-28",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.105,
+        "speed": 10.9
+      },
+      {
+        "data": "2025-10-29",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.118,
+        "speed": 9.5
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.75,
+        "speed": 1.1
+      },
+      {
+        "data": "2025-11-07",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.8,
+        "speed": 1.0
+      },
+      {
+        "data": "2025-11-08",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.633,
+        "speed": 1.1
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 6,
+        "seaCondition": 5,
+        "fuelPerNm": 0.143,
+        "speed": 8.4
+      },
+      {
+        "data": "2025-11-21",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.086,
+        "speed": 11.7
+      },
+      {
+        "data": "2025-11-22",
+        "beaufort": 7,
+        "seaCondition": 6,
+        "fuelPerNm": 0.089,
+        "speed": 11.2
+      }
+    ],
+    "totalViagens": 1120,
+    "recomendacao": "Indicios moderados de bioincrustacao (52%). Monitorar evolucao nas proximas semanas."
+  }
+}

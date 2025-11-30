@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /login
+Disallow: /dashboard-executivo
+Disallow: /dashboard-engenharia
+Disallow: /dashboard-operacional
+Disallow: /cockpit
+Disallow: /ibi
+Disallow: /digital-twin
+Disallow: /previsao
+Disallow: /compliance
+Disallow: /manutencao
+Disallow: /esg
+Disallow: /ingestao
+Disallow: /alertas
+Disallow: /analise-regressao
+
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
