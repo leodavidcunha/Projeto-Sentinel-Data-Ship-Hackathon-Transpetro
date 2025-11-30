@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hackaton-test-njly.vercel.app/login" target="_blank">
+  <a href="https://hackaton-test-njly.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Entrar%20na%20Plataforma-1E90FF?style=for-the-badge" alt="Entrar na Plataforma com Dados Reais"><br>
     <i>Esta link é da plataforma desenvolvida com dados reais do DataSet da TransPetro e Dados Externos Meteorologicos
   </a>
