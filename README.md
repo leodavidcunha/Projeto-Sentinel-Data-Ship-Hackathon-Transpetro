@@ -235,10 +235,19 @@ O Sentinel Data Ship utiliza dados da API Meteo para:
       💻 Backend & Frontend
     </td>
   </tr>
+
+  ## 📄 Licença
+
+Este projeto está licenciado sob a **Apache License 2.0**, uma licença aberta que:
+
+- 🔒 Protege a nossa propriedade intelectual  
+- 🛡 Inclui cláusulas específicas de patentes e direitos autorais  
+- 🔍 Permite que avaliadores, jurados e mentores analisem o código  
+- 🚫 Impede o uso comercial sem autorização da equipe  
+- 🔧 Permite contribuições e evolução aberta, se desejado  
+- 💼 É amplamente aceita por empresas e ambientes corporativos
+
+Para mais detalhes, consulte o arquivo **LICENSE** incluído no repositório.
+
 </table>
-
-</div>
-
-<hr>
-
 
